@@ -1,0 +1,2189 @@
+fileFormatVersion: 2
+guid: cd6612d909ae4f24a8e9d838d1200f15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9215507557176230098
+    second: 72-icons-eleken_0
+  - first:
+      213: 4101277947794282074
+    second: 72-icons-eleken_1
+  - first:
+      213: -6703103357357228817
+    second: 72-icons-eleken_2
+  - first:
+      213: -1567168417858743353
+    second: 72-icons-eleken_3
+  - first:
+      213: -6674563812941257407
+    second: 72-icons-eleken_4
+  - first:
+      213: -7753771118034545462
+    second: 72-icons-eleken_5
+  - first:
+      213: -3204862236795363395
+    second: 72-icons-eleken_6
+  - first:
+      213: 4952370605757793171
+    second: 72-icons-eleken_7
+  - first:
+      213: -3622513136315316885
+    second: No
+  - first:
+      213: -1102607948472725419
+    second: 72-icons-eleken_9
+  - first:
+      213: 1373063132113684100
+    second: 72-icons-eleken_10
+  - first:
+      213: -8530997608009927671
+    second: Ok
+  - first:
+      213: -3028588697535178616
+    second: 72-icons-eleken_12
+  - first:
+      213: 4812656475417982638
+    second: 72-icons-eleken_13
+  - first:
+      213: 1101709699096709186
+    second: 72-icons-eleken_14
+  - first:
+      213: -6386343062460578685
+    second: 72-icons-eleken_15
+  - first:
+      213: -4225574252999028408
+    second: 72-icons-eleken_16
+  - first:
+      213: -3340084141857183484
+    second: 72-icons-eleken_17
+  - first:
+      213: 980606002802183376
+    second: 72-icons-eleken_18
+  - first:
+      213: -1021022232276241451
+    second: 72-icons-eleken_19
+  - first:
+      213: 6873945240144259752
+    second: 72-icons-eleken_20
+  - first:
+      213: 859924331932887573
+    second: 72-icons-eleken_21
+  - first:
+      213: 7083263994439588468
+    second: 72-icons-eleken_22
+  - first:
+      213: -5608493945303196491
+    second: 72-icons-eleken_23
+  - first:
+      213: 8685979063871292990
+    second: 72-icons-eleken_24
+  - first:
+      213: -3351857955292803749
+    second: 72-icons-eleken_25
+  - first:
+      213: -5941971747342982456
+    second: 72-icons-eleken_26
+  - first:
+      213: -6727029497331471736
+    second: 72-icons-eleken_27
+  - first:
+      213: 8027613899797571153
+    second: 72-icons-eleken_28
+  - first:
+      213: 6302968021777429511
+    second: 72-icons-eleken_29
+  - first:
+      213: 1399506087301905541
+    second: 72-icons-eleken_30
+  - first:
+      213: -6034355409600085997
+    second: 72-icons-eleken_31
+  - first:
+      213: -2512360388511023088
+    second: 72-icons-eleken_32
+  - first:
+      213: -7978706541686413372
+    second: 72-icons-eleken_33
+  - first:
+      213: 1286016511190908015
+    second: 72-icons-eleken_34
+  - first:
+      213: -1167677358307503853
+    second: 72-icons-eleken_35
+  - first:
+      213: 2906500600605165460
+    second: 72-icons-eleken_36
+  - first:
+      213: 8211408224180216564
+    second: 72-icons-eleken_37
+  - first:
+      213: 7923961690273328229
+    second: Back
+  - first:
+      213: -64982814881962161
+    second: 72-icons-eleken_39
+  - first:
+      213: -3180119856790372055
+    second: 72-icons-eleken_40
+  - first:
+      213: 6093280029111435124
+    second: 72-icons-eleken_41
+  - first:
+      213: -8493657135667316670
+    second: 72-icons-eleken_42
+  - first:
+      213: -6924388716118695331
+    second: 72-icons-eleken_43
+  - first:
+      213: 4368371212360751021
+    second: 72-icons-eleken_44
+  - first:
+      213: 1409991807055813959
+    second: 72-icons-eleken_45
+  - first:
+      213: -7606645438081109455
+    second: 72-icons-eleken_46
+  - first:
+      213: 3762154981749051501
+    second: 72-icons-eleken_47
+  - first:
+      213: -1709641895581457752
+    second: 72-icons-eleken_48
+  - first:
+      213: -8392446031542465080
+    second: 72-icons-eleken_49
+  - first:
+      213: 2572999252995648475
+    second: 72-icons-eleken_50
+  - first:
+      213: -39666553141236146
+    second: 72-icons-eleken_51
+  - first:
+      213: -248327878204888023
+    second: 72-icons-eleken_52
+  - first:
+      213: 7527238547296046379
+    second: 72-icons-eleken_53
+  - first:
+      213: -3584397994520720392
+    second: 72-icons-eleken_54
+  - first:
+      213: 1719327389936516189
+    second: 72-icons-eleken_55
+  - first:
+      213: -6241854498866136408
+    second: 72-icons-eleken_56
+  - first:
+      213: -8173940654478893350
+    second: 72-icons-eleken_57
+  - first:
+      213: -966188662687810331
+    second: 72-icons-eleken_58
+  - first:
+      213: 1127661439342040439
+    second: Reset
+  - first:
+      213: 5661772197126992996
+    second: 72-icons-eleken_60
+  - first:
+      213: -8763934840999478760
+    second: 72-icons-eleken_61
+  - first:
+      213: 5994860856076742600
+    second: 72-icons-eleken_62
+  - first:
+      213: -8952837711337583904
+    second: 72-icons-eleken_63
+  - first:
+      213: 8955669574576953150
+    second: 72-icons-eleken_64
+  - first:
+      213: -3372184300517691486
+    second: 72-icons-eleken_65
+  - first:
+      213: -8928230104890747858
+    second: 72-icons-eleken_66
+  - first:
+      213: -4624813348361334226
+    second: 72-icons-eleken_67
+  - first:
+      213: 6347152312941274660
+    second: 72-icons-eleken_68
+  - first:
+      213: -2022024911820870781
+    second: 72-icons-eleken_69
+  - first:
+      213: 3115688187032509545
+    second: 72-icons-eleken_70
+  - first:
+      213: -3486657483803974213
+    second: 72-icons-eleken_71
+  - first:
+      213: -7851861871829750770
+    second: 72-icons-eleken_72
+  - first:
+      213: -1155236043633424582
+    second: 72-icons-eleken_73
+  - first:
+      213: 2731748557271919177
+    second: 72-icons-eleken_74
+  - first:
+      213: 5184713394157410454
+    second: 72-icons-eleken_75
+  - first:
+      213: 2457594930757197232
+    second: 72-icons-eleken_76
+  - first:
+      213: -940778650518591483
+    second: 72-icons-eleken_77
+  - first:
+      213: -1179538595907937844
+    second: 72-icons-eleken_78
+  - first:
+      213: 5934573412865765779
+    second: 72-icons-eleken_79
+  - first:
+      213: 2036227928682859800
+    second: 72-icons-eleken_80
+  - first:
+      213: -2426833724921407008
+    second: 72-icons-eleken_81
+  - first:
+      213: -603839090088078777
+    second: 72-icons-eleken_82
+  - first:
+      213: -9174721705108574601
+    second: 72-icons-eleken_83
+  - first:
+      213: 5619407622519759637
+    second: 72-icons-eleken_84
+  - first:
+      213: -3053174317553777440
+    second: 72-icons-eleken_85
+  - first:
+      213: 3768928651991400562
+    second: 72-icons-eleken_86
+  - first:
+      213: 3556874148399313721
+    second: 72-icons-eleken_87
+  - first:
+      213: -2048052311288749298
+    second: 72-icons-eleken_88
+  - first:
+      213: -8157183953531904543
+    second: 72-icons-eleken_89
+  - first:
+      213: -8311706741791150808
+    second: 72-icons-eleken_90
+  - first:
+      213: 353572225752781331
+    second: 72-icons-eleken_91
+  - first:
+      213: -8479398947134337582
+    second: 72-icons-eleken_92
+  - first:
+      213: 5496763068166734695
+    second: 72-icons-eleken_93
+  - first:
+      213: 2736412755941005501
+    second: 72-icons-eleken_94
+  - first:
+      213: 3923215481518821353
+    second: 72-icons-eleken_95
+  - first:
+      213: -8996841162095177212
+    second: 72-icons-eleken_96
+  - first:
+      213: 6537535500440727323
+    second: 72-icons-eleken_97
+  - first:
+      213: -8343648295475210460
+    second: 72-icons-eleken_98
+  - first:
+      213: 2999398927234634856
+    second: 72-icons-eleken_99
+  - first:
+      213: -6433063292378169750
+    second: 72-icons-eleken_100
+  - first:
+      213: 6372742187651919081
+    second: 72-icons-eleken_101
+  - first:
+      213: 7350592133754662080
+    second: 72-icons-eleken_102
+  - first:
+      213: -4539172563362362387
+    second: 72-icons-eleken_103
+  - first:
+      213: -6668413003481590199
+    second: 72-icons-eleken_104
+  - first:
+      213: -1663462758421727585
+    second: 72-icons-eleken_105
+  - first:
+      213: -8665611023013348376
+    second: 72-icons-eleken_106
+  - first:
+      213: 6576164755312798953
+    second: 72-icons-eleken_107
+  - first:
+      213: 7232519422019594191
+    second: 72-icons-eleken_108
+  - first:
+      213: 4110885870415534766
+    second: 72-icons-eleken_109
+  - first:
+      213: 8925776566530994057
+    second: 72-icons-eleken_110
+  - first:
+      213: 4035987867658236796
+    second: 72-icons-eleken_111
+  - first:
+      213: 3788725734352788001
+    second: info
+  - first:
+      213: -7182620850872041738
+    second: 72-icons-eleken_113
+  - first:
+      213: -951475269028885700
+    second: 72-icons-eleken_114
+  - first:
+      213: -1462170971508791509
+    second: 72-icons-eleken_115
+  - first:
+      213: -7443068260117724757
+    second: Arrow Left
+  - first:
+      213: -8166858393026338201
+    second: 72-icons-eleken_117
+  - first:
+      213: -6935585554684214354
+    second: Arrow Up
+  - first:
+      213: -122554026395273852
+    second: 72-icons-eleken_119
+  - first:
+      213: -4695226372680671442
+    second: 72-icons-eleken_120
+  - first:
+      213: -5267983401035857250
+    second: 72-icons-eleken_121
+  - first:
+      213: -920780758323921400
+    second: 72-icons-eleken_122
+  - first:
+      213: 5976733345399530655
+    second: 72-icons-eleken_123
+  - first:
+      213: -4716534618952352599
+    second: 72-icons-eleken_124
+  - first:
+      213: -7140709644471880357
+    second: 72-icons-eleken_125
+  - first:
+      213: -7662207531789463822
+    second: 72-icons-eleken_126
+  - first:
+      213: -4827219515062854735
+    second: 72-icons-eleken_127
+  - first:
+      213: 1227886107710484084
+    second: 72-icons-eleken_128
+  - first:
+      213: -6956095959331029128
+    second: 72-icons-eleken_129
+  - first:
+      213: -3469252145696979541
+    second: 72-icons-eleken_130
+  - first:
+      213: -5831447511866757963
+    second: 72-icons-eleken_131
+  - first:
+      213: -7247711113648651099
+    second: 72-icons-eleken_132
+  - first:
+      213: 2916738029225292178
+    second: 72-icons-eleken_133
+  - first:
+      213: -3374711805703575279
+    second: Refresh
+  - first:
+      213: 556910759201838450
+    second: 72-icons-eleken_135
+  - first:
+      213: 2737240572132562041
+    second: 72-icons-eleken_136
+  - first:
+      213: -915366432110567534
+    second: 72-icons-eleken_137
+  - first:
+      213: -325558016870783071
+    second: 72-icons-eleken_138
+  - first:
+      213: 8608939158670325400
+    second: 72-icons-eleken_139
+  - first:
+      213: 617604234573379887
+    second: 72-icons-eleken_140
+  - first:
+      213: -1542665932980074606
+    second: 72-icons-eleken_141
+  - first:
+      213: 3136146483097891002
+    second: 72-icons-eleken_142
+  - first:
+      213: -1099409631020292463
+    second: 72-icons-eleken_143
+  - first:
+      213: 7314802141693125060
+    second: 72-icons-eleken_144
+  - first:
+      213: 7829875679865824821
+    second: 72-icons-eleken_145
+  - first:
+      213: -5757229395687478987
+    second: 72-icons-eleken_146
+  - first:
+      213: -3482492904249169230
+    second: 72-icons-eleken_147
+  - first:
+      213: 2788994129596121112
+    second: 72-icons-eleken_148
+  - first:
+      213: -3523126778208259435
+    second: 72-icons-eleken_149
+  - first:
+      213: -2271649029364380115
+    second: 72-icons-eleken_150
+  - first:
+      213: -5298319344783168452
+    second: 72-icons-eleken_151
+  - first:
+      213: -3481466365324321935
+    second: Home
+  - first:
+      213: 9050847305470483635
+    second: Settings
+  - first:
+      213: -2219902927913533023
+    second: 72-icons-eleken_154
+  - first:
+      213: -5036870635643854032
+    second: 72-icons-eleken_155
+  - first:
+      213: 2180182065787920219
+    second: 72-icons-eleken_156
+  - first:
+      213: -6553904659988846803
+    second: 72-icons-eleken_157
+  - first:
+      213: 2159472420679485954
+    second: 72-icons-eleken_158
+  - first:
+      213: -5169644766336071749
+    second: 72-icons-eleken_159
+  - first:
+      213: 6787204452777947386
+    second: 72-icons-eleken_160
+  - first:
+      213: 1509763360504039248
+    second: 72-icons-eleken_161
+  - first:
+      213: 3404799404358522946
+    second: 72-icons-eleken_162
+  - first:
+      213: 1378032299976416278
+    second: 72-icons-eleken_163
+  - first:
+      213: -4001101548769122118
+    second: 72-icons-eleken_164
+  - first:
+      213: -674331533617635404
+    second: 72-icons-eleken_165
+  - first:
+      213: -7016741273716482193
+    second: 72-icons-eleken_166
+  - first:
+      213: -4203181054909999883
+    second: 72-icons-eleken_167
+  - first:
+      213: 7734176644311775386
+    second: 72-icons-eleken_168
+  - first:
+      213: -4859786445384248092
+    second: 72-icons-eleken_169
+  - first:
+      213: 3439987906489345401
+    second: 72-icons-eleken_170
+  - first:
+      213: 3441545545780598776
+    second: 72-icons-eleken_171
+  - first:
+      213: -6672731768848254906
+    second: 72-icons-eleken_172
+  - first:
+      213: 7376845256532787799
+    second: 72-icons-eleken_173
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: No
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 479
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b1a9c9da45644f91289b1b5d7f0ec
+      internalID: -3622513136315316885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ok
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 479
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdb0774b6be49149901c6d4ea19a613
+      internalID: -8530997608009927671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 479
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87e6cb5531dc274dbeff00f43c7a6d8
+      internalID: -3028588697535178616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 479
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9191a6a084a41e4cac779e8962090e3
+      internalID: 4812656475417982638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 479
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea0f6c18be3d3f4aa86f72f35baf215
+      internalID: -6386343062460578685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 479
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6720037f0ee1a614c89e16c681ff92a9
+      internalID: -4225574252999028408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 479
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54e5464c6546814592402818c70cd3d
+      internalID: -3340084141857183484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 479
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9074e1959ecb7804aba535392c617724
+      internalID: 980606002802183376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 479
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0160995c64ee4394fb37dbfd014f9de2
+      internalID: -1021022232276241451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1e961d1f4063544be826c293b504f5
+      internalID: -6727029497331471736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dee9bcc4218fa449965625e3e036c7
+      internalID: 1399506087301905541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c3b14c6f92b734698305f8f9156dc3
+      internalID: -6034355409600085997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b215822d1ca4b043b6a56cff4e65c03
+      internalID: -2512360388511023088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ffa2861ca1ea449a30421ca85c410e
+      internalID: 1286016511190908015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a907ef4151a454691ff02bb19b2980
+      internalID: 2906500600605165460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e030c660f6e150438500216b3cce4d5
+      internalID: 8211408224180216564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b436e85ee31344fb362757e8c363b1
+      internalID: 7923961690273328229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b6de367208104491e1e22e6ef6af0
+      internalID: -3180119856790372055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 407
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f690bf065ab54baa1322fc1a9489b
+      internalID: -7606645438081109455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc319cc8e6e3db4a88eaffc2b625378
+      internalID: -1709641895581457752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627c88ebab77d654984e5be84dfcec0a
+      internalID: -39666553141236146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e473e71dd042741be1d15cbe2079a7
+      internalID: -248327878204888023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d680f44f6e779418551adf63605d3c
+      internalID: -3584397994520720392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31cf34aa26520d4aaf6aff579918a53
+      internalID: 1719327389936516189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_56
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89247c1027ebd40897d64e0ad004fa
+      internalID: -6241854498866136408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94b1798987d9f04fa3b0171c9824b09
+      internalID: -8173940654478893350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e74a805b0cfc24294bc72b331d281d
+      internalID: -966188662687810331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reset
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c38397fcc27eea47adc871aa8a3c815
+      internalID: 1127661439342040439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c29406d366b7045bcb7a3a6956b644
+      internalID: -8928230104890747858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c91b2ce602398b458e6571e1dd4795e
+      internalID: 6347152312941274660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554aa2a586c680b45809064da7d2ecb2
+      internalID: -2022024911820870781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_70
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29fb9657327144798fbccff7057d18
+      internalID: 3115688187032509545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd1a5df37fafbb43bc7f1d1c5c76238
+      internalID: -7851861871829750770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_75
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae464c59600d3a43a4225d3e48707dc
+      internalID: 5184713394157410454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_77
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4fbbe145e41e840ba3e0e9e43d1b56
+      internalID: -940778650518591483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba96224bc14aae4f9e25c318da2dc16
+      internalID: -1179538595907937844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a4732ac5062a64788ddf4e6a4be3d7
+      internalID: 5934573412865765779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a853245f20fc39944acae5de770c59cf
+      internalID: -2048052311288749298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_90
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb4a2652c425fb4fbf02e3889b4ac03
+      internalID: -8311706741791150808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a459ed1f36f60445ab4d599dd9a9f2d
+      internalID: 353572225752781331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f339dd7cadaf7344690f53d88cbdb80e
+      internalID: 5496763068166734695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7afda44eed5444ba746b1a973fcb57
+      internalID: 3923215481518821353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_96
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6c3b39c7436014b96e03c9b9a78b15
+      internalID: -8996841162095177212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_97
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9df48d30efa26c4fb147bb8c9207fba
+      internalID: 6537535500440727323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_99
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057d3754613e0304788f768f60078540
+      internalID: 2999398927234634856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_102
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7713c6a62b533a4fbcfcf525dbb6d5c
+      internalID: 7350592133754662080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: info
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c849abb4a5315204f81a6daf419c98ed
+      internalID: 3788725734352788001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_113
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eeb9fa294091f4db2f90a4f23f5df5
+      internalID: -7182620850872041738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30df3f9bb229d41a0f94d23d8bf3a9
+      internalID: -951475269028885700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Left
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7a22b039ab8ed4591c20f7192d8bc1
+      internalID: -7443068260117724757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Up
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175b2eb7530b24d46a9a616e43509e73
+      internalID: -6935585554684214354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_119
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1512268d5ec5a46b2b89646232da28
+      internalID: -122554026395273852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_120
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fdd586cd19d534cafc08aaaf7b65fd
+      internalID: -4695226372680671442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_121
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad985f340807857468281061d7890c9f
+      internalID: -5267983401035857250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_122
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3b1fab90865224eb3580911f46b2bf
+      internalID: -920780758323921400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e14f64fc25af3c44a1b20779a0f67a9
+      internalID: -6956095959331029128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_131
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb97fa5c2aca894a89f86c1437d878e
+      internalID: -5831447511866757963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3fff8471596bc4cbdcaf3d1869b2f7
+      internalID: -7247711113648651099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Refresh
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230fa8707e6a77e4897a5a4718765397
+      internalID: -3374711805703575279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44effafe0bf5bc348a866313e12c95f2
+      internalID: 2737240572132562041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_137
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad8782219ae1ee44aee07da2bc30a22
+      internalID: -915366432110567534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281cca8d176b19948aa0d6a16fe7eb3a
+      internalID: -325558016870783071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_139
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d59deabd652a942a730c9bd5ad771d
+      internalID: 8608939158670325400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_140
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d736c3ecc6aa3458ccd0b85603773a
+      internalID: 617604234573379887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97ab214fb89aa44daecbfcf79081b3b
+      internalID: -3523126778208259435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba02c5bd72de6e498598b8d537b377e
+      internalID: -5298319344783168452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48585757238083b47be25c134abd50a3
+      internalID: -3481466365324321935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb7bf8919da63a4b992442d23ee7e19
+      internalID: 9050847305470483635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d31f6b6b31d44893d9b1589ce3868
+      internalID: -2219902927913533023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_155
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec625e6fa268c6b44aaf95960bacdfb7
+      internalID: -5036870635643854032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_156
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739d22d72f815ac408985a136c45feff
+      internalID: 2180182065787920219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_158
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6ee229cd8b46f4fb278d31a1ea7b1c
+      internalID: 2159472420679485954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72-icons-eleken_159
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1817a651e570c744380b9bcf99edec93
+      internalID: -5169644766336071749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f33d6a2501f22ca488c2a5cbb2286fd8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
