@@ -1,0 +1,23 @@
+1	Sliders to sides (skipped. Comes attached)	start Left,Right,Sliders
+2	Back (leg) Screws, support screws, 2nd level screws
+3	Attach Back, support to right side
+4	(Skippped)
+5	attach 2nd level
+6	connect left side to main
+7	(skip)
+8	(skip)
+9	(skip)
+10	top screws, attach top
+11	(skip)
+12	(skip)
+13	(skip)
+14	(skip)
+15	(skip)
+16	(skip)
+17	(skip)
+18	(skip) or [CREATE/reuse screws] for sliders
+19	attach shelf
+20	knob screw [CREATE or Reuse]
+21	attach knob
+
+done
